@@ -1,5 +1,7 @@
 # Registro_Universitario_mbcv
 
+## La practica 2 esta en la rama "practica2"
+
 Este proyecto es una API RESTful desarrollada con Spring Boot y Java para la gestión de información de estudiantes en una universidad. Permite realizar operaciones básicas de creación, lectura, actualización y eliminación de estudiantes.
 
 ## Funcionalidades Implementadas
